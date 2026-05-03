@@ -263,6 +263,10 @@ export default function App() {
           </div>
 
         </main>
+
+        <footer className="mt-12 text-center text-white/40 font-mono text-xs tracking-widest uppercase">
+          Created by Alane Gaetan, Mathematics Student
+        </footer>
       </div>
     </div>
   );
